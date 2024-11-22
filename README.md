@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Engineer, Data analysis and Data Science
 - 🌱 I’m currently learning Data Engineer tools and the latest technologies in the data area market
 - 💞️ I’m looking to collaborate on Data Projects
-- 📫 How to reach me:
--   email: matheus2araldi@gmail.com   
+- 📫 How to reach me:  
 -   linkedin: https://www.linkedin.com/in/matheus-araldi
 
 <!---
